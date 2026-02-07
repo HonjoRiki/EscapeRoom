@@ -1,0 +1,2207 @@
+fileFormatVersion: 2
+guid: 17e96c4622fe1ac41b61ececd28200d3
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: 3902486363729660433
+    second: Object067|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -2768024616166792745
+    second: Object067|Object057|Take 001|BaseLayer
+  - first:
+      74: -8661232994589970719
+    second: Object067|Object059|Take 001|BaseLayer
+  - first:
+      74: 8017676977109019333
+    second: Object067|Object067|Take 001|BaseLayer
+  - first:
+      74: -767660758813474015
+    second: Object067|Object068|Take 001|BaseLayer
+  - first:
+      74: 7015661187471991417
+    second: Object067|Object069|Take 001|BaseLayer
+  - first:
+      74: 3253135581725362262
+    second: Object067|Object070|Take 001|BaseLayer
+  - first:
+      74: -1070011914531993473
+    second: Object067|Object071|Take 001|BaseLayer
+  - first:
+      74: 7408039735089238260
+    second: Object067|Object072|Take 001|BaseLayer
+  - first:
+      74: 5700974106260379008
+    second: Object067|Object073|Take 001|BaseLayer
+  - first:
+      74: -8752799441253537658
+    second: Object067|Object074|Take 001|BaseLayer
+  - first:
+      74: 391864345328819777
+    second: Object067|Object075|Take 001|BaseLayer
+  - first:
+      74: 4169426909767258659
+    second: Object067|Object076|Take 001|BaseLayer
+  - first:
+      74: 7994454677531598898
+    second: Object067|Object077|Take 001|BaseLayer
+  - first:
+      74: 3627146781011628292
+    second: Object067|Object078|Take 001|BaseLayer
+  - first:
+      74: 6559744516147904294
+    second: Object067|Object079|Take 001|BaseLayer
+  - first:
+      74: -8031641059797932224
+    second: Object067|Object080|Take 001|BaseLayer
+  - first:
+      74: -1658913985568669845
+    second: Object067|Object081|Take 001|BaseLayer
+  - first:
+      74: -3875078739563474428
+    second: Object067|Object082|Take 001|BaseLayer
+  - first:
+      74: 1109588440816067227
+    second: Object067|Object083|Take 001|BaseLayer
+  - first:
+      74: -7673074707735372866
+    second: Object067|Object084|Take 001|BaseLayer
+  - first:
+      74: 1436055765972820927
+    second: Object067|Object085|Take 001|BaseLayer
+  - first:
+      74: -2369526666291576023
+    second: Object067|Object086|Take 001|BaseLayer
+  - first:
+      74: -5729251915546505655
+    second: Object067|Object087|Take 001|BaseLayer
+  - first:
+      74: 2469561136121174231
+    second: Object067|Object088|Take 001|BaseLayer
+  - first:
+      74: 8379332171846710336
+    second: Object067|Object089|Take 001|BaseLayer
+  - first:
+      74: 7348609705301917524
+    second: Object067|Object090|Take 001|BaseLayer
+  - first:
+      74: 8884903179124413446
+    second: Object067|Object091|Take 001|BaseLayer
+  - first:
+      74: -1072684182503922424
+    second: Object067|Object092|Take 001|BaseLayer
+  - first:
+      74: -3417442285461244711
+    second: Object067|Object093|Take 001|BaseLayer
+  - first:
+      74: -3305656737751006507
+    second: Object067|Object094|Take 001|BaseLayer
+  - first:
+      74: -2290197019418645192
+    second: Object067|Object095|Take 001|BaseLayer
+  - first:
+      74: 6105773821829130900
+    second: Object067|Object096|Take 001|BaseLayer
+  - first:
+      74: -8225093649105629721
+    second: Object067|Object097|Take 001|BaseLayer
+  - first:
+      74: -7419556881894771652
+    second: Object067|Object098|Take 001|BaseLayer
+  - first:
+      74: 1928763722315179158
+    second: Object068|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -7220573290325286641
+    second: Object068|Object057|Take 001|BaseLayer
+  - first:
+      74: 1425907594445919380
+    second: Object068|Object059|Take 001|BaseLayer
+  - first:
+      74: 5892702605607705941
+    second: Object068|Object067|Take 001|BaseLayer
+  - first:
+      74: 5335696485915956548
+    second: Object068|Object068|Take 001|BaseLayer
+  - first:
+      74: -6951400378714812088
+    second: Object068|Object069|Take 001|BaseLayer
+  - first:
+      74: 5894441555551654705
+    second: Object068|Object070|Take 001|BaseLayer
+  - first:
+      74: 616105329799283051
+    second: Object068|Object071|Take 001|BaseLayer
+  - first:
+      74: -520614167997052906
+    second: Object068|Object072|Take 001|BaseLayer
+  - first:
+      74: -5702252251042513446
+    second: Object068|Object073|Take 001|BaseLayer
+  - first:
+      74: 7184680193058444370
+    second: Object068|Object074|Take 001|BaseLayer
+  - first:
+      74: -2532997449805642434
+    second: Object068|Object075|Take 001|BaseLayer
+  - first:
+      74: -8644792027719078707
+    second: Object068|Object076|Take 001|BaseLayer
+  - first:
+      74: 8305451263630658413
+    second: Object068|Object077|Take 001|BaseLayer
+  - first:
+      74: 2651215868959555121
+    second: Object068|Object078|Take 001|BaseLayer
+  - first:
+      74: -8449684326962377585
+    second: Object068|Object079|Take 001|BaseLayer
+  - first:
+      74: -4291690295846783081
+    second: Object068|Object080|Take 001|BaseLayer
+  - first:
+      74: -1066920049624592146
+    second: Object068|Object081|Take 001|BaseLayer
+  - first:
+      74: 7268852170193295855
+    second: Object068|Object082|Take 001|BaseLayer
+  - first:
+      74: 2294788821653493968
+    second: Object068|Object083|Take 001|BaseLayer
+  - first:
+      74: 7284182767958190122
+    second: Object068|Object084|Take 001|BaseLayer
+  - first:
+      74: 1578682128969781826
+    second: Object068|Object085|Take 001|BaseLayer
+  - first:
+      74: -1065720207125756161
+    second: Object068|Object086|Take 001|BaseLayer
+  - first:
+      74: 8226071252397069518
+    second: Object068|Object087|Take 001|BaseLayer
+  - first:
+      74: -2577232967622703611
+    second: Object068|Object088|Take 001|BaseLayer
+  - first:
+      74: 7725336622019742789
+    second: Object068|Object089|Take 001|BaseLayer
+  - first:
+      74: 9171850834289633780
+    second: Object068|Object090|Take 001|BaseLayer
+  - first:
+      74: -2037197144384972830
+    second: Object068|Object091|Take 001|BaseLayer
+  - first:
+      74: -1044219456201318977
+    second: Object068|Object092|Take 001|BaseLayer
+  - first:
+      74: -271636468198800526
+    second: Object068|Object093|Take 001|BaseLayer
+  - first:
+      74: 6800533149703881725
+    second: Object068|Object094|Take 001|BaseLayer
+  - first:
+      74: 927877184948277921
+    second: Object068|Object095|Take 001|BaseLayer
+  - first:
+      74: 1333916674318596890
+    second: Object068|Object096|Take 001|BaseLayer
+  - first:
+      74: -539497073331239671
+    second: Object068|Object097|Take 001|BaseLayer
+  - first:
+      74: 4995267597943834505
+    second: Object068|Object098|Take 001|BaseLayer
+  - first:
+      74: 4588199529812880312
+    second: Object069|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -5088567996943692973
+    second: Object069|Object057|Take 001|BaseLayer
+  - first:
+      74: -4647352799753176279
+    second: Object069|Object059|Take 001|BaseLayer
+  - first:
+      74: 2529466354079569271
+    second: Object069|Object067|Take 001|BaseLayer
+  - first:
+      74: -4726635523478828116
+    second: Object069|Object068|Take 001|BaseLayer
+  - first:
+      74: -6806702301367566287
+    second: Object069|Object069|Take 001|BaseLayer
+  - first:
+      74: 5382692451760143814
+    second: Object069|Object070|Take 001|BaseLayer
+  - first:
+      74: 9201458909918885897
+    second: Object069|Object071|Take 001|BaseLayer
+  - first:
+      74: -6594500060385162062
+    second: Object069|Object072|Take 001|BaseLayer
+  - first:
+      74: -5863658715880419477
+    second: Object069|Object073|Take 001|BaseLayer
+  - first:
+      74: -246199884908057882
+    second: Object069|Object074|Take 001|BaseLayer
+  - first:
+      74: 7649798781719703670
+    second: Object069|Object075|Take 001|BaseLayer
+  - first:
+      74: 1613326392326177104
+    second: Object069|Object076|Take 001|BaseLayer
+  - first:
+      74: -7153120907599316016
+    second: Object069|Object077|Take 001|BaseLayer
+  - first:
+      74: 101696737666253355
+    second: Object069|Object078|Take 001|BaseLayer
+  - first:
+      74: -425151547911871156
+    second: Object069|Object079|Take 001|BaseLayer
+  - first:
+      74: 8917679596055239717
+    second: Object069|Object080|Take 001|BaseLayer
+  - first:
+      74: -5859164375906801924
+    second: Object069|Object081|Take 001|BaseLayer
+  - first:
+      74: -6555731632777942644
+    second: Object069|Object082|Take 001|BaseLayer
+  - first:
+      74: 5329499679591808710
+    second: Object069|Object083|Take 001|BaseLayer
+  - first:
+      74: -1317415192067525677
+    second: Object069|Object084|Take 001|BaseLayer
+  - first:
+      74: -5992525427081610267
+    second: Object069|Object085|Take 001|BaseLayer
+  - first:
+      74: -4335984831853451218
+    second: Object069|Object086|Take 001|BaseLayer
+  - first:
+      74: 1607370787023910230
+    second: Object069|Object087|Take 001|BaseLayer
+  - first:
+      74: 8630073110721802193
+    second: Object069|Object088|Take 001|BaseLayer
+  - first:
+      74: 5023830369774420268
+    second: Object069|Object089|Take 001|BaseLayer
+  - first:
+      74: -795154350345750940
+    second: Object069|Object090|Take 001|BaseLayer
+  - first:
+      74: -3298159477407617454
+    second: Object069|Object091|Take 001|BaseLayer
+  - first:
+      74: -4297411287251350608
+    second: Object069|Object092|Take 001|BaseLayer
+  - first:
+      74: -6309651845815723326
+    second: Object069|Object093|Take 001|BaseLayer
+  - first:
+      74: -3489278999110288847
+    second: Object069|Object094|Take 001|BaseLayer
+  - first:
+      74: 2498987687551614355
+    second: Object069|Object095|Take 001|BaseLayer
+  - first:
+      74: 2952005134122359786
+    second: Object069|Object096|Take 001|BaseLayer
+  - first:
+      74: 9159782755334381991
+    second: Object069|Object097|Take 001|BaseLayer
+  - first:
+      74: -7297150040959012829
+    second: Object069|Object098|Take 001|BaseLayer
+  - first:
+      74: 1093413329339499154
+    second: Object070|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -2424864685272532373
+    second: Object070|Object057|Take 001|BaseLayer
+  - first:
+      74: 9209529865069139999
+    second: Object070|Object059|Take 001|BaseLayer
+  - first:
+      74: 1915376904617581132
+    second: Object070|Object067|Take 001|BaseLayer
+  - first:
+      74: -5239798855683574515
+    second: Object070|Object068|Take 001|BaseLayer
+  - first:
+      74: 5712246925259762147
+    second: Object070|Object069|Take 001|BaseLayer
+  - first:
+      74: -806014885630975544
+    second: Object070|Object070|Take 001|BaseLayer
+  - first:
+      74: 3042683922006849591
+    second: Object070|Object071|Take 001|BaseLayer
+  - first:
+      74: 1527524558744750585
+    second: Object070|Object072|Take 001|BaseLayer
+  - first:
+      74: -1296894029719076658
+    second: Object070|Object073|Take 001|BaseLayer
+  - first:
+      74: 3597204998632093862
+    second: Object070|Object074|Take 001|BaseLayer
+  - first:
+      74: -4086140767119650143
+    second: Object070|Object075|Take 001|BaseLayer
+  - first:
+      74: -1336915393080278258
+    second: Object070|Object076|Take 001|BaseLayer
+  - first:
+      74: 2481388795644238356
+    second: Object070|Object077|Take 001|BaseLayer
+  - first:
+      74: 6212048305819987545
+    second: Object070|Object078|Take 001|BaseLayer
+  - first:
+      74: -3673409145011194498
+    second: Object070|Object079|Take 001|BaseLayer
+  - first:
+      74: 3845600260521852898
+    second: Object070|Object080|Take 001|BaseLayer
+  - first:
+      74: 6398592176045293244
+    second: Object070|Object081|Take 001|BaseLayer
+  - first:
+      74: -914739436515359534
+    second: Object070|Object082|Take 001|BaseLayer
+  - first:
+      74: -6822002612313312681
+    second: Object070|Object083|Take 001|BaseLayer
+  - first:
+      74: 3871051947395924389
+    second: Object070|Object084|Take 001|BaseLayer
+  - first:
+      74: 7661440568330550935
+    second: Object070|Object085|Take 001|BaseLayer
+  - first:
+      74: -8973017249496625864
+    second: Object070|Object086|Take 001|BaseLayer
+  - first:
+      74: -3216765604844215644
+    second: Object070|Object087|Take 001|BaseLayer
+  - first:
+      74: 8057381796104780675
+    second: Object070|Object088|Take 001|BaseLayer
+  - first:
+      74: -1041689060484807460
+    second: Object070|Object089|Take 001|BaseLayer
+  - first:
+      74: 8635328332043584645
+    second: Object070|Object090|Take 001|BaseLayer
+  - first:
+      74: 6683757771107890454
+    second: Object070|Object091|Take 001|BaseLayer
+  - first:
+      74: 2119547522691549350
+    second: Object070|Object092|Take 001|BaseLayer
+  - first:
+      74: 3388517487686550418
+    second: Object070|Object093|Take 001|BaseLayer
+  - first:
+      74: 714614185334524685
+    second: Object070|Object094|Take 001|BaseLayer
+  - first:
+      74: -1818465196570420403
+    second: Object070|Object095|Take 001|BaseLayer
+  - first:
+      74: 7501094610259955783
+    second: Object070|Object096|Take 001|BaseLayer
+  - first:
+      74: -8443521665239018507
+    second: Object070|Object097|Take 001|BaseLayer
+  - first:
+      74: 2621206968010334417
+    second: Object070|Object098|Take 001|BaseLayer
+  - first:
+      74: -3405168669327768223
+    second: Object071|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: 3118091870072677999
+    second: Object071|Object057|Take 001|BaseLayer
+  - first:
+      74: 8935927306426089991
+    second: Object071|Object059|Take 001|BaseLayer
+  - first:
+      74: -1770294649541145205
+    second: Object071|Object067|Take 001|BaseLayer
+  - first:
+      74: -5124530509000148120
+    second: Object071|Object068|Take 001|BaseLayer
+  - first:
+      74: 5803963927924426872
+    second: Object071|Object069|Take 001|BaseLayer
+  - first:
+      74: -1266724083919320207
+    second: Object071|Object070|Take 001|BaseLayer
+  - first:
+      74: -3042388986857614885
+    second: Object071|Object071|Take 001|BaseLayer
+  - first:
+      74: 2114456854000175485
+    second: Object071|Object072|Take 001|BaseLayer
+  - first:
+      74: 586165638087318380
+    second: Object071|Object073|Take 001|BaseLayer
+  - first:
+      74: -603920489357743034
+    second: Object071|Object074|Take 001|BaseLayer
+  - first:
+      74: 4256706498017834807
+    second: Object071|Object075|Take 001|BaseLayer
+  - first:
+      74: -9154592345930903223
+    second: Object071|Object076|Take 001|BaseLayer
+  - first:
+      74: 6977492439317213459
+    second: Object071|Object077|Take 001|BaseLayer
+  - first:
+      74: -1996709628477300663
+    second: Object071|Object078|Take 001|BaseLayer
+  - first:
+      74: 1044719937606241702
+    second: Object071|Object079|Take 001|BaseLayer
+  - first:
+      74: -7995834616410971424
+    second: Object071|Object080|Take 001|BaseLayer
+  - first:
+      74: -6570354712041592169
+    second: Object071|Object081|Take 001|BaseLayer
+  - first:
+      74: 1764588479397382409
+    second: Object071|Object082|Take 001|BaseLayer
+  - first:
+      74: 1344801715557035414
+    second: Object071|Object083|Take 001|BaseLayer
+  - first:
+      74: 6948640673360273860
+    second: Object071|Object084|Take 001|BaseLayer
+  - first:
+      74: 5113097987240718786
+    second: Object071|Object085|Take 001|BaseLayer
+  - first:
+      74: 1681756456240481496
+    second: Object071|Object086|Take 001|BaseLayer
+  - first:
+      74: 554747096999011466
+    second: Object071|Object087|Take 001|BaseLayer
+  - first:
+      74: -4921738574194374322
+    second: Object071|Object088|Take 001|BaseLayer
+  - first:
+      74: 3663528302083793014
+    second: Object071|Object089|Take 001|BaseLayer
+  - first:
+      74: 9120683729846120265
+    second: Object071|Object090|Take 001|BaseLayer
+  - first:
+      74: 661256801179677194
+    second: Object071|Object091|Take 001|BaseLayer
+  - first:
+      74: 5475403046424751752
+    second: Object071|Object092|Take 001|BaseLayer
+  - first:
+      74: -985701826675220144
+    second: Object071|Object093|Take 001|BaseLayer
+  - first:
+      74: -182908803965274204
+    second: Object071|Object094|Take 001|BaseLayer
+  - first:
+      74: -4237332722431418607
+    second: Object071|Object095|Take 001|BaseLayer
+  - first:
+      74: 4103396472697491199
+    second: Object071|Object096|Take 001|BaseLayer
+  - first:
+      74: 3935496993043618231
+    second: Object071|Object097|Take 001|BaseLayer
+  - first:
+      74: -5233008223571705745
+    second: Object071|Object098|Take 001|BaseLayer
+  - first:
+      74: -1973137881836418027
+    second: Object072|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: 2231982488602882470
+    second: Object072|Object057|Take 001|BaseLayer
+  - first:
+      74: 1726969417089529938
+    second: Object072|Object059|Take 001|BaseLayer
+  - first:
+      74: 903558495299122350
+    second: Object072|Object067|Take 001|BaseLayer
+  - first:
+      74: 3089572966830259331
+    second: Object072|Object068|Take 001|BaseLayer
+  - first:
+      74: 6266464005485332884
+    second: Object072|Object069|Take 001|BaseLayer
+  - first:
+      74: -516772231347667493
+    second: Object072|Object070|Take 001|BaseLayer
+  - first:
+      74: 3493144439138230944
+    second: Object072|Object071|Take 001|BaseLayer
+  - first:
+      74: 2696849972597246654
+    second: Object072|Object072|Take 001|BaseLayer
+  - first:
+      74: 372992475197980380
+    second: Object072|Object073|Take 001|BaseLayer
+  - first:
+      74: 8756009915505498482
+    second: Object072|Object074|Take 001|BaseLayer
+  - first:
+      74: 5660667527730977012
+    second: Object072|Object075|Take 001|BaseLayer
+  - first:
+      74: -5358661720191368729
+    second: Object072|Object076|Take 001|BaseLayer
+  - first:
+      74: 7418701936193537669
+    second: Object072|Object077|Take 001|BaseLayer
+  - first:
+      74: 1521790346361873932
+    second: Object072|Object078|Take 001|BaseLayer
+  - first:
+      74: 3610942887409973948
+    second: Object072|Object079|Take 001|BaseLayer
+  - first:
+      74: 8706999472380539255
+    second: Object072|Object080|Take 001|BaseLayer
+  - first:
+      74: 8000063186039563225
+    second: Object072|Object081|Take 001|BaseLayer
+  - first:
+      74: -4890403929964124509
+    second: Object072|Object082|Take 001|BaseLayer
+  - first:
+      74: -1591579069029915792
+    second: Object072|Object083|Take 001|BaseLayer
+  - first:
+      74: 6332131808726067923
+    second: Object072|Object084|Take 001|BaseLayer
+  - first:
+      74: 8721868163936329090
+    second: Object072|Object085|Take 001|BaseLayer
+  - first:
+      74: 6630794287905827688
+    second: Object072|Object086|Take 001|BaseLayer
+  - first:
+      74: -3476342546381329374
+    second: Object072|Object087|Take 001|BaseLayer
+  - first:
+      74: -1469065128039641400
+    second: Object072|Object088|Take 001|BaseLayer
+  - first:
+      74: 3815974266675717465
+    second: Object072|Object089|Take 001|BaseLayer
+  - first:
+      74: -6954035881235564739
+    second: Object072|Object090|Take 001|BaseLayer
+  - first:
+      74: -735222501408901962
+    second: Object072|Object091|Take 001|BaseLayer
+  - first:
+      74: -1936686805443941279
+    second: Object072|Object092|Take 001|BaseLayer
+  - first:
+      74: 7725634934104526732
+    second: Object072|Object093|Take 001|BaseLayer
+  - first:
+      74: -2438842240441532852
+    second: Object072|Object094|Take 001|BaseLayer
+  - first:
+      74: 874079622774452083
+    second: Object072|Object095|Take 001|BaseLayer
+  - first:
+      74: 2257936585999797143
+    second: Object072|Object096|Take 001|BaseLayer
+  - first:
+      74: 1782782746967124820
+    second: Object072|Object097|Take 001|BaseLayer
+  - first:
+      74: -4540196949460933119
+    second: Object072|Object098|Take 001|BaseLayer
+  - first:
+      74: -8608955465587488620
+    second: Object073|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -3644816890604597089
+    second: Object073|Object057|Take 001|BaseLayer
+  - first:
+      74: -1058336277791527514
+    second: Object073|Object059|Take 001|BaseLayer
+  - first:
+      74: 5915273371210077135
+    second: Object073|Object067|Take 001|BaseLayer
+  - first:
+      74: -8837233953798094003
+    second: Object073|Object068|Take 001|BaseLayer
+  - first:
+      74: 1132899667479289278
+    second: Object073|Object069|Take 001|BaseLayer
+  - first:
+      74: 6619838554551849605
+    second: Object073|Object070|Take 001|BaseLayer
+  - first:
+      74: 5363015863225609093
+    second: Object073|Object071|Take 001|BaseLayer
+  - first:
+      74: 1102575730155598087
+    second: Object073|Object072|Take 001|BaseLayer
+  - first:
+      74: 3206536546595640163
+    second: Object073|Object073|Take 001|BaseLayer
+  - first:
+      74: -4278585238488333259
+    second: Object073|Object074|Take 001|BaseLayer
+  - first:
+      74: -4311292835659868829
+    second: Object073|Object075|Take 001|BaseLayer
+  - first:
+      74: -4780281332170735725
+    second: Object073|Object076|Take 001|BaseLayer
+  - first:
+      74: -1447614146458415095
+    second: Object073|Object077|Take 001|BaseLayer
+  - first:
+      74: 4006192211414877292
+    second: Object073|Object078|Take 001|BaseLayer
+  - first:
+      74: -183045412279104530
+    second: Object073|Object079|Take 001|BaseLayer
+  - first:
+      74: 8578214043537507917
+    second: Object073|Object080|Take 001|BaseLayer
+  - first:
+      74: -3964863480452603125
+    second: Object073|Object081|Take 001|BaseLayer
+  - first:
+      74: 1991766603607543035
+    second: Object073|Object082|Take 001|BaseLayer
+  - first:
+      74: 6203238051497132288
+    second: Object073|Object083|Take 001|BaseLayer
+  - first:
+      74: -8946331392995528341
+    second: Object073|Object084|Take 001|BaseLayer
+  - first:
+      74: 5116979584943682132
+    second: Object073|Object085|Take 001|BaseLayer
+  - first:
+      74: -9202841255407588847
+    second: Object073|Object086|Take 001|BaseLayer
+  - first:
+      74: -8647908997142965826
+    second: Object073|Object087|Take 001|BaseLayer
+  - first:
+      74: -6968815701832385076
+    second: Object073|Object088|Take 001|BaseLayer
+  - first:
+      74: 2495575849178210217
+    second: Object073|Object089|Take 001|BaseLayer
+  - first:
+      74: -6060208079527918997
+    second: Object073|Object090|Take 001|BaseLayer
+  - first:
+      74: -5279533733222413119
+    second: Object073|Object091|Take 001|BaseLayer
+  - first:
+      74: -444373365259688346
+    second: Object073|Object092|Take 001|BaseLayer
+  - first:
+      74: 1823786955691926869
+    second: Object073|Object093|Take 001|BaseLayer
+  - first:
+      74: -8860722274687713582
+    second: Object073|Object094|Take 001|BaseLayer
+  - first:
+      74: -777806172105201434
+    second: Object073|Object095|Take 001|BaseLayer
+  - first:
+      74: 7910015063904169821
+    second: Object073|Object096|Take 001|BaseLayer
+  - first:
+      74: 8311554173380581957
+    second: Object073|Object097|Take 001|BaseLayer
+  - first:
+      74: -6821393782572549941
+    second: Object073|Object098|Take 001|BaseLayer
+  - first:
+      74: -5972910766727514795
+    second: Object074|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -572648859959942875
+    second: Object074|Object057|Take 001|BaseLayer
+  - first:
+      74: 597084824733189773
+    second: Object074|Object059|Take 001|BaseLayer
+  - first:
+      74: -8249756110791750399
+    second: Object074|Object067|Take 001|BaseLayer
+  - first:
+      74: -3493350331208794605
+    second: Object074|Object068|Take 001|BaseLayer
+  - first:
+      74: 3228877083415058118
+    second: Object074|Object069|Take 001|BaseLayer
+  - first:
+      74: 5175615770278414407
+    second: Object074|Object070|Take 001|BaseLayer
+  - first:
+      74: -8249509808010621257
+    second: Object074|Object071|Take 001|BaseLayer
+  - first:
+      74: 8604642856662181603
+    second: Object074|Object072|Take 001|BaseLayer
+  - first:
+      74: -4421662455050944415
+    second: Object074|Object073|Take 001|BaseLayer
+  - first:
+      74: 7670261731768177863
+    second: Object074|Object074|Take 001|BaseLayer
+  - first:
+      74: 6987472146985588098
+    second: Object074|Object075|Take 001|BaseLayer
+  - first:
+      74: -8354313390395930449
+    second: Object074|Object076|Take 001|BaseLayer
+  - first:
+      74: 3866507638415757190
+    second: Object074|Object077|Take 001|BaseLayer
+  - first:
+      74: -1620050169058660612
+    second: Object074|Object078|Take 001|BaseLayer
+  - first:
+      74: 3810211482325343162
+    second: Object074|Object079|Take 001|BaseLayer
+  - first:
+      74: -7769995099323036816
+    second: Object074|Object080|Take 001|BaseLayer
+  - first:
+      74: -3502300092810736008
+    second: Object074|Object081|Take 001|BaseLayer
+  - first:
+      74: 24523486718395449
+    second: Object074|Object082|Take 001|BaseLayer
+  - first:
+      74: 5375374776895246548
+    second: Object074|Object083|Take 001|BaseLayer
+  - first:
+      74: 3962685329651527358
+    second: Object074|Object084|Take 001|BaseLayer
+  - first:
+      74: 2002456843358172916
+    second: Object074|Object085|Take 001|BaseLayer
+  - first:
+      74: -1969495321290799148
+    second: Object074|Object086|Take 001|BaseLayer
+  - first:
+      74: -7240798846800109538
+    second: Object074|Object087|Take 001|BaseLayer
+  - first:
+      74: 416890102468413667
+    second: Object074|Object088|Take 001|BaseLayer
+  - first:
+      74: 5884309755296981059
+    second: Object074|Object089|Take 001|BaseLayer
+  - first:
+      74: -6053916697611068489
+    second: Object074|Object090|Take 001|BaseLayer
+  - first:
+      74: 899183537846162902
+    second: Object074|Object091|Take 001|BaseLayer
+  - first:
+      74: 8066659738267147711
+    second: Object074|Object092|Take 001|BaseLayer
+  - first:
+      74: -644488354528715657
+    second: Object074|Object093|Take 001|BaseLayer
+  - first:
+      74: 2262560704184884027
+    second: Object074|Object094|Take 001|BaseLayer
+  - first:
+      74: 6232861069968777715
+    second: Object074|Object095|Take 001|BaseLayer
+  - first:
+      74: 2941140266250702226
+    second: Object074|Object096|Take 001|BaseLayer
+  - first:
+      74: -2691420766888509805
+    second: Object074|Object097|Take 001|BaseLayer
+  - first:
+      74: 1261357601563583956
+    second: Object074|Object098|Take 001|BaseLayer
+  - first:
+      74: 7500969282569513593
+    second: Object075|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -6169925148431489416
+    second: Object075|Object057|Take 001|BaseLayer
+  - first:
+      74: -4218378608285284968
+    second: Object075|Object059|Take 001|BaseLayer
+  - first:
+      74: -5751451041445416040
+    second: Object075|Object067|Take 001|BaseLayer
+  - first:
+      74: 6480536891538046722
+    second: Object075|Object068|Take 001|BaseLayer
+  - first:
+      74: -229472605679180734
+    second: Object075|Object069|Take 001|BaseLayer
+  - first:
+      74: 6537618220391860690
+    second: Object075|Object070|Take 001|BaseLayer
+  - first:
+      74: -5859237710755768796
+    second: Object075|Object071|Take 001|BaseLayer
+  - first:
+      74: 6791751873998754625
+    second: Object075|Object072|Take 001|BaseLayer
+  - first:
+      74: 7286659079124094392
+    second: Object075|Object073|Take 001|BaseLayer
+  - first:
+      74: -7916002722286937831
+    second: Object075|Object074|Take 001|BaseLayer
+  - first:
+      74: -8295808120780045214
+    second: Object075|Object075|Take 001|BaseLayer
+  - first:
+      74: -4882792655951861827
+    second: Object075|Object076|Take 001|BaseLayer
+  - first:
+      74: -9159291423786026371
+    second: Object075|Object077|Take 001|BaseLayer
+  - first:
+      74: 3658516570122241284
+    second: Object075|Object078|Take 001|BaseLayer
+  - first:
+      74: 7816720041485847837
+    second: Object075|Object079|Take 001|BaseLayer
+  - first:
+      74: -6428548534198714378
+    second: Object075|Object080|Take 001|BaseLayer
+  - first:
+      74: 1819077920956256688
+    second: Object075|Object081|Take 001|BaseLayer
+  - first:
+      74: 1313971105772111191
+    second: Object075|Object082|Take 001|BaseLayer
+  - first:
+      74: -680494205867070961
+    second: Object075|Object083|Take 001|BaseLayer
+  - first:
+      74: -4600469024510815206
+    second: Object075|Object084|Take 001|BaseLayer
+  - first:
+      74: -4797995262739077197
+    second: Object075|Object085|Take 001|BaseLayer
+  - first:
+      74: -2236077337941665571
+    second: Object075|Object086|Take 001|BaseLayer
+  - first:
+      74: 3935739668399045297
+    second: Object075|Object087|Take 001|BaseLayer
+  - first:
+      74: 7586876898956212183
+    second: Object075|Object088|Take 001|BaseLayer
+  - first:
+      74: 2566894062489556649
+    second: Object075|Object089|Take 001|BaseLayer
+  - first:
+      74: -4757298801151554404
+    second: Object075|Object090|Take 001|BaseLayer
+  - first:
+      74: -8431277218688440144
+    second: Object075|Object091|Take 001|BaseLayer
+  - first:
+      74: -3623228480690498307
+    second: Object075|Object092|Take 001|BaseLayer
+  - first:
+      74: 7862109936209742343
+    second: Object075|Object093|Take 001|BaseLayer
+  - first:
+      74: 8725472452416249441
+    second: Object075|Object094|Take 001|BaseLayer
+  - first:
+      74: -8486668952860472503
+    second: Object075|Object095|Take 001|BaseLayer
+  - first:
+      74: -5973118966239690512
+    second: Object075|Object096|Take 001|BaseLayer
+  - first:
+      74: 6202815781284872156
+    second: Object075|Object097|Take 001|BaseLayer
+  - first:
+      74: -165664586167428466
+    second: Object075|Object098|Take 001|BaseLayer
+  - first:
+      74: 6860640676329002416
+    second: Object076|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -2270742285792991310
+    second: Object076|Object057|Take 001|BaseLayer
+  - first:
+      74: 7790176341227469152
+    second: Object076|Object059|Take 001|BaseLayer
+  - first:
+      74: 8028227958866896837
+    second: Object076|Object067|Take 001|BaseLayer
+  - first:
+      74: -7072883987526255188
+    second: Object076|Object068|Take 001|BaseLayer
+  - first:
+      74: 8418469640022741726
+    second: Object076|Object069|Take 001|BaseLayer
+  - first:
+      74: -5512646265167523078
+    second: Object076|Object070|Take 001|BaseLayer
+  - first:
+      74: -2819661350051327782
+    second: Object076|Object071|Take 001|BaseLayer
+  - first:
+      74: -7525091785654022571
+    second: Object076|Object072|Take 001|BaseLayer
+  - first:
+      74: 765510859918190883
+    second: Object076|Object073|Take 001|BaseLayer
+  - first:
+      74: -570804796145245381
+    second: Object076|Object074|Take 001|BaseLayer
+  - first:
+      74: 7490712427158833746
+    second: Object076|Object075|Take 001|BaseLayer
+  - first:
+      74: 7060915824457405691
+    second: Object076|Object076|Take 001|BaseLayer
+  - first:
+      74: -2191819222561627213
+    second: Object076|Object077|Take 001|BaseLayer
+  - first:
+      74: -80274487395227454
+    second: Object076|Object078|Take 001|BaseLayer
+  - first:
+      74: -4347761796506995439
+    second: Object076|Object079|Take 001|BaseLayer
+  - first:
+      74: -8861357805455413171
+    second: Object076|Object080|Take 001|BaseLayer
+  - first:
+      74: -7701340999695494165
+    second: Object076|Object081|Take 001|BaseLayer
+  - first:
+      74: -1628651662720714899
+    second: Object076|Object082|Take 001|BaseLayer
+  - first:
+      74: 5535156138707634971
+    second: Object076|Object083|Take 001|BaseLayer
+  - first:
+      74: -1923483986725905463
+    second: Object076|Object084|Take 001|BaseLayer
+  - first:
+      74: -3966889095870944255
+    second: Object076|Object085|Take 001|BaseLayer
+  - first:
+      74: -8464783808158602806
+    second: Object076|Object086|Take 001|BaseLayer
+  - first:
+      74: 5704857875954431243
+    second: Object076|Object087|Take 001|BaseLayer
+  - first:
+      74: -5900845463782139140
+    second: Object076|Object088|Take 001|BaseLayer
+  - first:
+      74: 3788536221912757424
+    second: Object076|Object089|Take 001|BaseLayer
+  - first:
+      74: -5086765387535501195
+    second: Object076|Object090|Take 001|BaseLayer
+  - first:
+      74: -7512705113735435292
+    second: Object076|Object091|Take 001|BaseLayer
+  - first:
+      74: -1604888847947463344
+    second: Object076|Object092|Take 001|BaseLayer
+  - first:
+      74: -5500143683909349032
+    second: Object076|Object093|Take 001|BaseLayer
+  - first:
+      74: -8694428889355954675
+    second: Object076|Object094|Take 001|BaseLayer
+  - first:
+      74: -932832832448099225
+    second: Object076|Object095|Take 001|BaseLayer
+  - first:
+      74: 4730036391610003095
+    second: Object076|Object096|Take 001|BaseLayer
+  - first:
+      74: -2801166751673379876
+    second: Object076|Object097|Take 001|BaseLayer
+  - first:
+      74: -6604923697405003556
+    second: Object076|Object098|Take 001|BaseLayer
+  - first:
+      74: 2234710847515939281
+    second: Object077|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: 4063275138381487242
+    second: Object077|Object057|Take 001|BaseLayer
+  - first:
+      74: 907424008994654592
+    second: Object077|Object059|Take 001|BaseLayer
+  - first:
+      74: 6673589789670763589
+    second: Object077|Object067|Take 001|BaseLayer
+  - first:
+      74: -7829443766787412661
+    second: Object077|Object068|Take 001|BaseLayer
+  - first:
+      74: 1250673957051167203
+    second: Object077|Object069|Take 001|BaseLayer
+  - first:
+      74: 4815517070767431907
+    second: Object077|Object070|Take 001|BaseLayer
+  - first:
+      74: -2006573092261113494
+    second: Object077|Object071|Take 001|BaseLayer
+  - first:
+      74: 8740091130353491007
+    second: Object077|Object072|Take 001|BaseLayer
+  - first:
+      74: 6229211220822726696
+    second: Object077|Object073|Take 001|BaseLayer
+  - first:
+      74: -6980233061733286798
+    second: Object077|Object074|Take 001|BaseLayer
+  - first:
+      74: -7056048646593747726
+    second: Object077|Object075|Take 001|BaseLayer
+  - first:
+      74: 8840145164043510457
+    second: Object077|Object076|Take 001|BaseLayer
+  - first:
+      74: 7551297552956049589
+    second: Object077|Object077|Take 001|BaseLayer
+  - first:
+      74: -2887796380931119159
+    second: Object077|Object078|Take 001|BaseLayer
+  - first:
+      74: 2051295060252478048
+    second: Object077|Object079|Take 001|BaseLayer
+  - first:
+      74: 8345176551034688510
+    second: Object077|Object080|Take 001|BaseLayer
+  - first:
+      74: 5417639946750155287
+    second: Object077|Object081|Take 001|BaseLayer
+  - first:
+      74: 6365891222571091200
+    second: Object077|Object082|Take 001|BaseLayer
+  - first:
+      74: -674507668199090917
+    second: Object077|Object083|Take 001|BaseLayer
+  - first:
+      74: 2432638405999761672
+    second: Object077|Object084|Take 001|BaseLayer
+  - first:
+      74: 8503809906466821007
+    second: Object077|Object085|Take 001|BaseLayer
+  - first:
+      74: -7151058070379028903
+    second: Object077|Object086|Take 001|BaseLayer
+  - first:
+      74: -312045759454783915
+    second: Object077|Object087|Take 001|BaseLayer
+  - first:
+      74: 2311921682932725261
+    second: Object077|Object088|Take 001|BaseLayer
+  - first:
+      74: -5240756443881727767
+    second: Object077|Object089|Take 001|BaseLayer
+  - first:
+      74: -6917479473822432099
+    second: Object077|Object090|Take 001|BaseLayer
+  - first:
+      74: 7198540586527392241
+    second: Object077|Object091|Take 001|BaseLayer
+  - first:
+      74: 4642250393274341094
+    second: Object077|Object092|Take 001|BaseLayer
+  - first:
+      74: 6893758232207887663
+    second: Object077|Object093|Take 001|BaseLayer
+  - first:
+      74: 7476855675806855761
+    second: Object077|Object094|Take 001|BaseLayer
+  - first:
+      74: -2351270195445672820
+    second: Object077|Object095|Take 001|BaseLayer
+  - first:
+      74: -7723847793308073751
+    second: Object077|Object096|Take 001|BaseLayer
+  - first:
+      74: 1834517291152818432
+    second: Object077|Object097|Take 001|BaseLayer
+  - first:
+      74: -1615261846667052484
+    second: Object077|Object098|Take 001|BaseLayer
+  - first:
+      74: -2802940472137192023
+    second: Object078|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: 8675457602895282424
+    second: Object078|Object057|Take 001|BaseLayer
+  - first:
+      74: 5554990647486108885
+    second: Object078|Object059|Take 001|BaseLayer
+  - first:
+      74: -8415460099414953817
+    second: Object078|Object067|Take 001|BaseLayer
+  - first:
+      74: -8091632651639859479
+    second: Object078|Object068|Take 001|BaseLayer
+  - first:
+      74: -3185331511765952556
+    second: Object078|Object069|Take 001|BaseLayer
+  - first:
+      74: 8453804721999615667
+    second: Object078|Object070|Take 001|BaseLayer
+  - first:
+      74: -7987404791644890475
+    second: Object078|Object071|Take 001|BaseLayer
+  - first:
+      74: -8403975802338115345
+    second: Object078|Object072|Take 001|BaseLayer
+  - first:
+      74: -5229927887202004313
+    second: Object078|Object073|Take 001|BaseLayer
+  - first:
+      74: 5254198343531000450
+    second: Object078|Object074|Take 001|BaseLayer
+  - first:
+      74: 9134755398365616931
+    second: Object078|Object075|Take 001|BaseLayer
+  - first:
+      74: 5482765016197607698
+    second: Object078|Object076|Take 001|BaseLayer
+  - first:
+      74: -1240697283056857152
+    second: Object078|Object077|Take 001|BaseLayer
+  - first:
+      74: -8288421522103806786
+    second: Object078|Object078|Take 001|BaseLayer
+  - first:
+      74: 6523390776301317515
+    second: Object078|Object079|Take 001|BaseLayer
+  - first:
+      74: -4041022299654067378
+    second: Object078|Object080|Take 001|BaseLayer
+  - first:
+      74: 5895505019219877021
+    second: Object078|Object081|Take 001|BaseLayer
+  - first:
+      74: -2294969879985291414
+    second: Object078|Object082|Take 001|BaseLayer
+  - first:
+      74: 5678845219321074963
+    second: Object078|Object083|Take 001|BaseLayer
+  - first:
+      74: 9020558420718059702
+    second: Object078|Object084|Take 001|BaseLayer
+  - first:
+      74: -4801941095815067587
+    second: Object078|Object085|Take 001|BaseLayer
+  - first:
+      74: 3705379426328606885
+    second: Object078|Object086|Take 001|BaseLayer
+  - first:
+      74: 5317167382901676911
+    second: Object078|Object087|Take 001|BaseLayer
+  - first:
+      74: 3924159995620549287
+    second: Object078|Object088|Take 001|BaseLayer
+  - first:
+      74: -2904385246576985299
+    second: Object078|Object089|Take 001|BaseLayer
+  - first:
+      74: -2389985932897864732
+    second: Object078|Object090|Take 001|BaseLayer
+  - first:
+      74: 1601609404304285799
+    second: Object078|Object091|Take 001|BaseLayer
+  - first:
+      74: -1121717883932180597
+    second: Object078|Object092|Take 001|BaseLayer
+  - first:
+      74: -7391235531011363521
+    second: Object078|Object093|Take 001|BaseLayer
+  - first:
+      74: 9025652827141684904
+    second: Object078|Object094|Take 001|BaseLayer
+  - first:
+      74: 7985549242664144028
+    second: Object078|Object095|Take 001|BaseLayer
+  - first:
+      74: -5179092116003604477
+    second: Object078|Object096|Take 001|BaseLayer
+  - first:
+      74: 3667343297699580984
+    second: Object078|Object097|Take 001|BaseLayer
+  - first:
+      74: -1456820423298911570
+    second: Object078|Object098|Take 001|BaseLayer
+  - first:
+      74: -2638825482637016184
+    second: Object079|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: 3077320264072700256
+    second: Object079|Object057|Take 001|BaseLayer
+  - first:
+      74: 1435208160915142133
+    second: Object079|Object059|Take 001|BaseLayer
+  - first:
+      74: 6067573960700925891
+    second: Object079|Object067|Take 001|BaseLayer
+  - first:
+      74: 9135630366427145351
+    second: Object079|Object068|Take 001|BaseLayer
+  - first:
+      74: -1407164709904544073
+    second: Object079|Object069|Take 001|BaseLayer
+  - first:
+      74: -4423448380166801127
+    second: Object079|Object070|Take 001|BaseLayer
+  - first:
+      74: -1370728756895315457
+    second: Object079|Object071|Take 001|BaseLayer
+  - first:
+      74: -440657561115780525
+    second: Object079|Object072|Take 001|BaseLayer
+  - first:
+      74: 5886568519078992897
+    second: Object079|Object073|Take 001|BaseLayer
+  - first:
+      74: -8500276369406021703
+    second: Object079|Object074|Take 001|BaseLayer
+  - first:
+      74: -8818447488975634414
+    second: Object079|Object075|Take 001|BaseLayer
+  - first:
+      74: 5642244535272297410
+    second: Object079|Object076|Take 001|BaseLayer
+  - first:
+      74: -1072165319964241135
+    second: Object079|Object077|Take 001|BaseLayer
+  - first:
+      74: -9139191700402717164
+    second: Object079|Object078|Take 001|BaseLayer
+  - first:
+      74: 2723445279408808176
+    second: Object079|Object079|Take 001|BaseLayer
+  - first:
+      74: 392892560391004078
+    second: Object079|Object080|Take 001|BaseLayer
+  - first:
+      74: 4669722988066621889
+    second: Object079|Object081|Take 001|BaseLayer
+  - first:
+      74: -3909489067842889445
+    second: Object079|Object082|Take 001|BaseLayer
+  - first:
+      74: -3621451965317872410
+    second: Object079|Object083|Take 001|BaseLayer
+  - first:
+      74: 2579019768485494106
+    second: Object079|Object084|Take 001|BaseLayer
+  - first:
+      74: -3098312764774391870
+    second: Object079|Object085|Take 001|BaseLayer
+  - first:
+      74: 2579434440938481353
+    second: Object079|Object086|Take 001|BaseLayer
+  - first:
+      74: -6983010430794407219
+    second: Object079|Object087|Take 001|BaseLayer
+  - first:
+      74: -6283587956967588833
+    second: Object079|Object088|Take 001|BaseLayer
+  - first:
+      74: -8374269781979162850
+    second: Object079|Object089|Take 001|BaseLayer
+  - first:
+      74: -581729086668621601
+    second: Object079|Object090|Take 001|BaseLayer
+  - first:
+      74: 7095567430109496567
+    second: Object079|Object091|Take 001|BaseLayer
+  - first:
+      74: -1755259083450301905
+    second: Object079|Object092|Take 001|BaseLayer
+  - first:
+      74: 6919647145602030406
+    second: Object079|Object093|Take 001|BaseLayer
+  - first:
+      74: -5744304075430190438
+    second: Object079|Object094|Take 001|BaseLayer
+  - first:
+      74: 2288625458665887007
+    second: Object079|Object095|Take 001|BaseLayer
+  - first:
+      74: 2903580802143959940
+    second: Object079|Object096|Take 001|BaseLayer
+  - first:
+      74: -6995003386954654556
+    second: Object079|Object097|Take 001|BaseLayer
+  - first:
+      74: -7892342129329400105
+    second: Object079|Object098|Take 001|BaseLayer
+  - first:
+      74: -5256794016499162028
+    second: Object080|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -6705371950714987620
+    second: Object080|Object057|Take 001|BaseLayer
+  - first:
+      74: 539993653418183759
+    second: Object080|Object059|Take 001|BaseLayer
+  - first:
+      74: 6148552169109906178
+    second: Object080|Object067|Take 001|BaseLayer
+  - first:
+      74: 4224401779267637113
+    second: Object080|Object068|Take 001|BaseLayer
+  - first:
+      74: 6232792313090067672
+    second: Object080|Object069|Take 001|BaseLayer
+  - first:
+      74: -9153545899773272985
+    second: Object080|Object070|Take 001|BaseLayer
+  - first:
+      74: 8932319788571072743
+    second: Object080|Object071|Take 001|BaseLayer
+  - first:
+      74: 1245752768810737223
+    second: Object080|Object072|Take 001|BaseLayer
+  - first:
+      74: -6893953066561244371
+    second: Object080|Object073|Take 001|BaseLayer
+  - first:
+      74: -8658465146548153420
+    second: Object080|Object074|Take 001|BaseLayer
+  - first:
+      74: 3503020995663488455
+    second: Object080|Object075|Take 001|BaseLayer
+  - first:
+      74: -1263135460500744465
+    second: Object080|Object076|Take 001|BaseLayer
+  - first:
+      74: 6962114262236178093
+    second: Object080|Object077|Take 001|BaseLayer
+  - first:
+      74: 2401630511201416548
+    second: Object080|Object078|Take 001|BaseLayer
+  - first:
+      74: -3906420848614674735
+    second: Object080|Object079|Take 001|BaseLayer
+  - first:
+      74: 7632875799017798231
+    second: Object080|Object080|Take 001|BaseLayer
+  - first:
+      74: 9007665218811294760
+    second: Object080|Object081|Take 001|BaseLayer
+  - first:
+      74: -8602321558854693354
+    second: Object080|Object082|Take 001|BaseLayer
+  - first:
+      74: -1447871909263225037
+    second: Object080|Object083|Take 001|BaseLayer
+  - first:
+      74: -4380452052141714448
+    second: Object080|Object084|Take 001|BaseLayer
+  - first:
+      74: -5141667524570868097
+    second: Object080|Object085|Take 001|BaseLayer
+  - first:
+      74: 8927844745529419703
+    second: Object080|Object086|Take 001|BaseLayer
+  - first:
+      74: 2847130667001333527
+    second: Object080|Object087|Take 001|BaseLayer
+  - first:
+      74: -8377507029216323770
+    second: Object080|Object088|Take 001|BaseLayer
+  - first:
+      74: 5941927213647225542
+    second: Object080|Object089|Take 001|BaseLayer
+  - first:
+      74: 8800239437695716017
+    second: Object080|Object090|Take 001|BaseLayer
+  - first:
+      74: -9036316508595460769
+    second: Object080|Object091|Take 001|BaseLayer
+  - first:
+      74: 6231086420264833943
+    second: Object080|Object092|Take 001|BaseLayer
+  - first:
+      74: -5680065467743487430
+    second: Object080|Object093|Take 001|BaseLayer
+  - first:
+      74: 4842932119813160440
+    second: Object080|Object094|Take 001|BaseLayer
+  - first:
+      74: -5687441978128197508
+    second: Object080|Object095|Take 001|BaseLayer
+  - first:
+      74: 706342791770596834
+    second: Object080|Object096|Take 001|BaseLayer
+  - first:
+      74: 5999027427124704254
+    second: Object080|Object097|Take 001|BaseLayer
+  - first:
+      74: -1485149338880771101
+    second: Object080|Object098|Take 001|BaseLayer
+  - first:
+      74: 2795360147011840255
+    second: Object081|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: 8356938948889243095
+    second: Object081|Object057|Take 001|BaseLayer
+  - first:
+      74: 1995549700596131495
+    second: Object081|Object059|Take 001|BaseLayer
+  - first:
+      74: 3293364151015165494
+    second: Object081|Object067|Take 001|BaseLayer
+  - first:
+      74: 3982900592055743159
+    second: Object081|Object068|Take 001|BaseLayer
+  - first:
+      74: -7418828194463760434
+    second: Object081|Object069|Take 001|BaseLayer
+  - first:
+      74: 1242892443240618553
+    second: Object081|Object070|Take 001|BaseLayer
+  - first:
+      74: -4672120868101219231
+    second: Object081|Object071|Take 001|BaseLayer
+  - first:
+      74: 5606242797411337894
+    second: Object081|Object072|Take 001|BaseLayer
+  - first:
+      74: 826026796851107156
+    second: Object081|Object073|Take 001|BaseLayer
+  - first:
+      74: 5225710086628722837
+    second: Object081|Object074|Take 001|BaseLayer
+  - first:
+      74: -1006176051657737548
+    second: Object081|Object075|Take 001|BaseLayer
+  - first:
+      74: 8959951348778513169
+    second: Object081|Object076|Take 001|BaseLayer
+  - first:
+      74: 8724132946778753572
+    second: Object081|Object077|Take 001|BaseLayer
+  - first:
+      74: 3671716666754258568
+    second: Object081|Object078|Take 001|BaseLayer
+  - first:
+      74: -7404285841386955110
+    second: Object081|Object079|Take 001|BaseLayer
+  - first:
+      74: 3661897567988097753
+    second: Object081|Object080|Take 001|BaseLayer
+  - first:
+      74: 2354441735958800594
+    second: Object081|Object081|Take 001|BaseLayer
+  - first:
+      74: -4894162172236493342
+    second: Object081|Object082|Take 001|BaseLayer
+  - first:
+      74: -2133269781520274623
+    second: Object081|Object083|Take 001|BaseLayer
+  - first:
+      74: -8187645447278741863
+    second: Object081|Object084|Take 001|BaseLayer
+  - first:
+      74: 4365200011418846406
+    second: Object081|Object085|Take 001|BaseLayer
+  - first:
+      74: -3463801373308992815
+    second: Object081|Object086|Take 001|BaseLayer
+  - first:
+      74: -3527800671058719252
+    second: Object081|Object087|Take 001|BaseLayer
+  - first:
+      74: -6079472824833421323
+    second: Object081|Object088|Take 001|BaseLayer
+  - first:
+      74: 7070613303886015481
+    second: Object081|Object089|Take 001|BaseLayer
+  - first:
+      74: 5587636898664241672
+    second: Object081|Object090|Take 001|BaseLayer
+  - first:
+      74: -8601024378580564940
+    second: Object081|Object091|Take 001|BaseLayer
+  - first:
+      74: 6749851591203993533
+    second: Object081|Object092|Take 001|BaseLayer
+  - first:
+      74: -2729882406832223608
+    second: Object081|Object093|Take 001|BaseLayer
+  - first:
+      74: 3838717839665405403
+    second: Object081|Object094|Take 001|BaseLayer
+  - first:
+      74: 7849524973050947454
+    second: Object081|Object095|Take 001|BaseLayer
+  - first:
+      74: -4189415582362190277
+    second: Object081|Object096|Take 001|BaseLayer
+  - first:
+      74: 6846475667018354037
+    second: Object081|Object097|Take 001|BaseLayer
+  - first:
+      74: 5024770651079659907
+    second: Object081|Object098|Take 001|BaseLayer
+  - first:
+      74: -6933295077374644581
+    second: Object082|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: 8369937277185330686
+    second: Object082|Object057|Take 001|BaseLayer
+  - first:
+      74: 5008178267294931587
+    second: Object082|Object059|Take 001|BaseLayer
+  - first:
+      74: 4696289748601436472
+    second: Object082|Object067|Take 001|BaseLayer
+  - first:
+      74: 8856595174522344349
+    second: Object082|Object068|Take 001|BaseLayer
+  - first:
+      74: -8275948985573007110
+    second: Object082|Object069|Take 001|BaseLayer
+  - first:
+      74: -2627423564442810225
+    second: Object082|Object070|Take 001|BaseLayer
+  - first:
+      74: -6742072927188763758
+    second: Object082|Object071|Take 001|BaseLayer
+  - first:
+      74: 6372714654057692731
+    second: Object082|Object072|Take 001|BaseLayer
+  - first:
+      74: 2433733080393140501
+    second: Object082|Object073|Take 001|BaseLayer
+  - first:
+      74: 4762241620125991927
+    second: Object082|Object074|Take 001|BaseLayer
+  - first:
+      74: -7067630307683382000
+    second: Object082|Object075|Take 001|BaseLayer
+  - first:
+      74: 1191564855973264754
+    second: Object082|Object076|Take 001|BaseLayer
+  - first:
+      74: 3453551998592598938
+    second: Object082|Object077|Take 001|BaseLayer
+  - first:
+      74: 493153682306600292
+    second: Object082|Object078|Take 001|BaseLayer
+  - first:
+      74: 5995461352277318247
+    second: Object082|Object079|Take 001|BaseLayer
+  - first:
+      74: 3741902667360406825
+    second: Object082|Object080|Take 001|BaseLayer
+  - first:
+      74: 7946791181215632551
+    second: Object082|Object081|Take 001|BaseLayer
+  - first:
+      74: 1635135625186363560
+    second: Object082|Object082|Take 001|BaseLayer
+  - first:
+      74: 7292128067222792654
+    second: Object082|Object083|Take 001|BaseLayer
+  - first:
+      74: 2444564683401589908
+    second: Object082|Object084|Take 001|BaseLayer
+  - first:
+      74: 608889091857098068
+    second: Object082|Object085|Take 001|BaseLayer
+  - first:
+      74: -3268565728658091308
+    second: Object082|Object086|Take 001|BaseLayer
+  - first:
+      74: 4936316802025848636
+    second: Object082|Object087|Take 001|BaseLayer
+  - first:
+      74: 9004412850687358632
+    second: Object082|Object088|Take 001|BaseLayer
+  - first:
+      74: 2816614423818907304
+    second: Object082|Object089|Take 001|BaseLayer
+  - first:
+      74: -5915120470400900581
+    second: Object082|Object090|Take 001|BaseLayer
+  - first:
+      74: -496208803575296564
+    second: Object082|Object091|Take 001|BaseLayer
+  - first:
+      74: -5134769382330944964
+    second: Object082|Object092|Take 001|BaseLayer
+  - first:
+      74: -2490253486853178078
+    second: Object082|Object093|Take 001|BaseLayer
+  - first:
+      74: 5034846003057696710
+    second: Object082|Object094|Take 001|BaseLayer
+  - first:
+      74: -3294118302554167019
+    second: Object082|Object095|Take 001|BaseLayer
+  - first:
+      74: 3853778265239347529
+    second: Object082|Object096|Take 001|BaseLayer
+  - first:
+      74: 3796322898921500872
+    second: Object082|Object097|Take 001|BaseLayer
+  - first:
+      74: 3500884168527521184
+    second: Object082|Object098|Take 001|BaseLayer
+  - first:
+      74: -8660192517126962412
+    second: Object083|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -694510430962676908
+    second: Object083|Object057|Take 001|BaseLayer
+  - first:
+      74: -8105592465815993769
+    second: Object083|Object059|Take 001|BaseLayer
+  - first:
+      74: 4421808221933362942
+    second: Object083|Object067|Take 001|BaseLayer
+  - first:
+      74: 1505551931934941298
+    second: Object083|Object068|Take 001|BaseLayer
+  - first:
+      74: 6425848665332631126
+    second: Object083|Object069|Take 001|BaseLayer
+  - first:
+      74: -1176295380627898346
+    second: Object083|Object070|Take 001|BaseLayer
+  - first:
+      74: 5834817258051818599
+    second: Object083|Object071|Take 001|BaseLayer
+  - first:
+      74: -5159170415485468349
+    second: Object083|Object072|Take 001|BaseLayer
+  - first:
+      74: 8544613858583842595
+    second: Object083|Object073|Take 001|BaseLayer
+  - first:
+      74: 8326528192572154856
+    second: Object083|Object074|Take 001|BaseLayer
+  - first:
+      74: -8412904631205514243
+    second: Object083|Object075|Take 001|BaseLayer
+  - first:
+      74: 8517677670456207709
+    second: Object083|Object076|Take 001|BaseLayer
+  - first:
+      74: 1296607162436069381
+    second: Object083|Object077|Take 001|BaseLayer
+  - first:
+      74: -4829989057394882439
+    second: Object083|Object078|Take 001|BaseLayer
+  - first:
+      74: -5202422650347511013
+    second: Object083|Object079|Take 001|BaseLayer
+  - first:
+      74: 6052242523446107782
+    second: Object083|Object080|Take 001|BaseLayer
+  - first:
+      74: -5547150124515020736
+    second: Object083|Object081|Take 001|BaseLayer
+  - first:
+      74: -4352226615240800063
+    second: Object083|Object082|Take 001|BaseLayer
+  - first:
+      74: 206343492411228573
+    second: Object083|Object083|Take 001|BaseLayer
+  - first:
+      74: 352847445231872372
+    second: Object083|Object084|Take 001|BaseLayer
+  - first:
+      74: -5096855546804463329
+    second: Object083|Object085|Take 001|BaseLayer
+  - first:
+      74: 793687368409511041
+    second: Object083|Object086|Take 001|BaseLayer
+  - first:
+      74: -6693202352956652644
+    second: Object083|Object087|Take 001|BaseLayer
+  - first:
+      74: 5505552597317511931
+    second: Object083|Object088|Take 001|BaseLayer
+  - first:
+      74: -6946845367314738975
+    second: Object083|Object089|Take 001|BaseLayer
+  - first:
+      74: -5540706214038236238
+    second: Object083|Object090|Take 001|BaseLayer
+  - first:
+      74: -4471902690292757858
+    second: Object083|Object091|Take 001|BaseLayer
+  - first:
+      74: -943645785145465191
+    second: Object083|Object092|Take 001|BaseLayer
+  - first:
+      74: 8546626846645188576
+    second: Object083|Object093|Take 001|BaseLayer
+  - first:
+      74: -5830375449314004676
+    second: Object083|Object094|Take 001|BaseLayer
+  - first:
+      74: -5841532754576063465
+    second: Object083|Object095|Take 001|BaseLayer
+  - first:
+      74: 4709947059353846992
+    second: Object083|Object096|Take 001|BaseLayer
+  - first:
+      74: 1171844323778288620
+    second: Object083|Object097|Take 001|BaseLayer
+  - first:
+      74: -4435132066724660670
+    second: Object083|Object098|Take 001|BaseLayer
+  - first:
+      74: 8193533020276196657
+    second: Object084|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -6762979849572077316
+    second: Object084|Object057|Take 001|BaseLayer
+  - first:
+      74: -6956503083003966919
+    second: Object084|Object059|Take 001|BaseLayer
+  - first:
+      74: 3443517920868488449
+    second: Object084|Object067|Take 001|BaseLayer
+  - first:
+      74: 973973331430576357
+    second: Object084|Object068|Take 001|BaseLayer
+  - first:
+      74: 4630124912559192718
+    second: Object084|Object069|Take 001|BaseLayer
+  - first:
+      74: 4144470801958983681
+    second: Object084|Object070|Take 001|BaseLayer
+  - first:
+      74: -4581630771245631231
+    second: Object084|Object071|Take 001|BaseLayer
+  - first:
+      74: -6062441557718223641
+    second: Object084|Object072|Take 001|BaseLayer
+  - first:
+      74: 5581852179022415483
+    second: Object084|Object073|Take 001|BaseLayer
+  - first:
+      74: -816145899307343508
+    second: Object084|Object074|Take 001|BaseLayer
+  - first:
+      74: 1875541071480779357
+    second: Object084|Object075|Take 001|BaseLayer
+  - first:
+      74: 3063876959457516802
+    second: Object084|Object076|Take 001|BaseLayer
+  - first:
+      74: -3334774853738181340
+    second: Object084|Object077|Take 001|BaseLayer
+  - first:
+      74: -1455783781382898928
+    second: Object084|Object078|Take 001|BaseLayer
+  - first:
+      74: -5573255620158552923
+    second: Object084|Object079|Take 001|BaseLayer
+  - first:
+      74: -8893727483038176975
+    second: Object084|Object080|Take 001|BaseLayer
+  - first:
+      74: -6093448119052575056
+    second: Object084|Object081|Take 001|BaseLayer
+  - first:
+      74: 5681447306179430795
+    second: Object084|Object082|Take 001|BaseLayer
+  - first:
+      74: -9212657036318447026
+    second: Object084|Object083|Take 001|BaseLayer
+  - first:
+      74: 5577366829759730468
+    second: Object084|Object084|Take 001|BaseLayer
+  - first:
+      74: -2990171410048915928
+    second: Object084|Object085|Take 001|BaseLayer
+  - first:
+      74: -3705386109831652121
+    second: Object084|Object086|Take 001|BaseLayer
+  - first:
+      74: -1210083625720709429
+    second: Object084|Object087|Take 001|BaseLayer
+  - first:
+      74: -392031273163716026
+    second: Object084|Object088|Take 001|BaseLayer
+  - first:
+      74: 1674955393834004419
+    second: Object084|Object089|Take 001|BaseLayer
+  - first:
+      74: -3126992697328199057
+    second: Object084|Object090|Take 001|BaseLayer
+  - first:
+      74: -7924135515176363017
+    second: Object084|Object091|Take 001|BaseLayer
+  - first:
+      74: 5138629504148586497
+    second: Object084|Object092|Take 001|BaseLayer
+  - first:
+      74: 6682601271867394412
+    second: Object084|Object093|Take 001|BaseLayer
+  - first:
+      74: -6876421227516998194
+    second: Object084|Object094|Take 001|BaseLayer
+  - first:
+      74: 2744634954199579381
+    second: Object084|Object095|Take 001|BaseLayer
+  - first:
+      74: -4045262553459718839
+    second: Object084|Object096|Take 001|BaseLayer
+  - first:
+      74: 6698094028926630862
+    second: Object084|Object097|Take 001|BaseLayer
+  - first:
+      74: 6362970097146607801
+    second: Object084|Object098|Take 001|BaseLayer
+  - first:
+      74: -2939940265126633878
+    second: Object085|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: 1816576071311992242
+    second: Object085|Object057|Take 001|BaseLayer
+  - first:
+      74: -3036216472120437168
+    second: Object085|Object059|Take 001|BaseLayer
+  - first:
+      74: 7289710300625177894
+    second: Object085|Object067|Take 001|BaseLayer
+  - first:
+      74: -8262378172575398488
+    second: Object085|Object068|Take 001|BaseLayer
+  - first:
+      74: -2708810260442277749
+    second: Object085|Object069|Take 001|BaseLayer
+  - first:
+      74: 5079587522485091413
+    second: Object085|Object070|Take 001|BaseLayer
+  - first:
+      74: -375409750534559345
+    second: Object085|Object071|Take 001|BaseLayer
+  - first:
+      74: -143515085386567428
+    second: Object085|Object072|Take 001|BaseLayer
+  - first:
+      74: -2393780254362647220
+    second: Object085|Object073|Take 001|BaseLayer
+  - first:
+      74: 428546700952510338
+    second: Object085|Object074|Take 001|BaseLayer
+  - first:
+      74: -7437658381983403756
+    second: Object085|Object075|Take 001|BaseLayer
+  - first:
+      74: -158528102961990639
+    second: Object085|Object076|Take 001|BaseLayer
+  - first:
+      74: -5133079498191867982
+    second: Object085|Object077|Take 001|BaseLayer
+  - first:
+      74: -4549218507898555527
+    second: Object085|Object078|Take 001|BaseLayer
+  - first:
+      74: -7753288907827561839
+    second: Object085|Object079|Take 001|BaseLayer
+  - first:
+      74: -2210812417310895553
+    second: Object085|Object080|Take 001|BaseLayer
+  - first:
+      74: 1389758863475857481
+    second: Object085|Object081|Take 001|BaseLayer
+  - first:
+      74: -5587389712534506599
+    second: Object085|Object082|Take 001|BaseLayer
+  - first:
+      74: 6405563014955360780
+    second: Object085|Object083|Take 001|BaseLayer
+  - first:
+      74: -6823894794859417872
+    second: Object085|Object084|Take 001|BaseLayer
+  - first:
+      74: -3261289455300867362
+    second: Object085|Object085|Take 001|BaseLayer
+  - first:
+      74: 5383942361677532124
+    second: Object085|Object086|Take 001|BaseLayer
+  - first:
+      74: 3459800144760500172
+    second: Object085|Object087|Take 001|BaseLayer
+  - first:
+      74: 4454411722320697493
+    second: Object085|Object088|Take 001|BaseLayer
+  - first:
+      74: 2365818076714678506
+    second: Object085|Object089|Take 001|BaseLayer
+  - first:
+      74: -3899648374718233152
+    second: Object085|Object090|Take 001|BaseLayer
+  - first:
+      74: 5653635977417482316
+    second: Object085|Object091|Take 001|BaseLayer
+  - first:
+      74: -2861845333726968938
+    second: Object085|Object092|Take 001|BaseLayer
+  - first:
+      74: 8635879618842155884
+    second: Object085|Object093|Take 001|BaseLayer
+  - first:
+      74: 8970959726804093562
+    second: Object085|Object094|Take 001|BaseLayer
+  - first:
+      74: -5175843095252070700
+    second: Object085|Object095|Take 001|BaseLayer
+  - first:
+      74: -9117073367622372608
+    second: Object085|Object096|Take 001|BaseLayer
+  - first:
+      74: -7091757825609139069
+    second: Object085|Object097|Take 001|BaseLayer
+  - first:
+      74: -4159634221369014623
+    second: Object085|Object098|Take 001|BaseLayer
+  - first:
+      74: 5711346879771054352
+    second: Object086|Book Shelf|Take 001|BaseLayer
+  - first:
+      74: -6229239570870103695
+    second: Object086|Object057|Take 001|BaseLayer
+  - first:
+      74: 4351389945742287801
+    second: Object086|Object059|Take 001|BaseLayer
+  - first:
+      74: -6969730439188699788
+    second: Object086|Object067|Take 001|BaseLayer
+  - first:
+      74: -4107147676178289282
+    second: Object086|Object068|Take 001|BaseLayer
+  - first:
+      74: 7268707002615103408
+    second: Object086|Object069|Take 001|BaseLayer
+  - first:
+      74: 6252672347792801749
+    second: Object086|Object070|Take 001|BaseLayer
+  - first:
+      74: 1672062830386380160
+    second: Object086|Object071|Take 001|BaseLayer
+  - first:
+      74: 802010333698005164
+    second: Object086|Object072|Take 001|BaseLayer
+  - first:
+      74: 3675849550053053117
+    second: Object086|Object073|Take 001|BaseLayer
+  - first:
+      74: -3858596338159042128
+    second: Object086|Object074|Take 001|BaseLayer
+  - first:
+      74: -1208185048691940502
+    second: Object086|Object075|Take 001|BaseLayer
+  - first:
+      74: -5643631408183996410
+    second: Object086|Object076|Take 001|BaseLayer
+  - first:
+      74: 2307531699200976494
+    second: Object086|Object077|Take 001|BaseLayer
+  - first:
+      74: -7274091153274023911
+    second: Object086|Object078|Take 001|BaseLayer
+  - first:
+      74: 5065917496547341937
+    second: Object086|Object079|Take 001|BaseLayer
+  - first:
+      74: -3683410026745712491
+    second: Object086|Object080|Take 001|BaseLayer
+  - first:
+      74: 1150180600280120123
+    second: Object086|Object081|Take 001|BaseLayer
+  - first:
+      74: -7099018351133266243
+    second: Object086|Object082|Take 001|BaseLayer
+  - first:
+      74: -8005704101213546463
+    second: Object086|Object083|Take 001|BaseLayer
+  - first:
+      74: 2834466291419419126
+    second: Object086|Object084|Take 001|BaseLayer
+  - first:
+      74: 7250351705240625395
+    second: Object086|Object085|Take 001|BaseLayer
+  - first:
+      74: -5799686010420834594
+    second: Object086|Object086|Take 001|BaseLayer
+  - first:
+      74: -2287699629273011024
+    second: Object086|Object087|Take 001|BaseLayer
+  - first:
+      74: -1121645792764571887
+    second: Object086|Object088|Take 001|BaseLayer
+  - first:
+      74: 1051844527058530839
+    second: Object086|Object089|Take 001|BaseLayer
+  - first:
+      74: 1848480773339840247
+    second: Object086|Object090|Take 001|BaseLayer
+  - first:
+      74: 3824362598904471262
+    second: Object086|Object091|Take 001|BaseLayer
+  - first:
+      74: 2626028740620533429
+    second: Object086|Object092|Take 001|BaseLayer
+  - first:
+      74: 4355633102530207600
+    second: Object086|Object093|Take 001|BaseLayer
+  - first:
+      74: -5847253438694528128
+    second: Object086|Object094|Take 001|BaseLayer
+  - first:
+      74: 4550624537620804715
+    second: Object086|Object095|Take 001|BaseLayer
+  - first:
+      74: -2884897110844310769
+    second: Object086|Object096|Take 001|BaseLayer
+  - first:
+      74: -7317605823843531297
+    second: Object086|Object097|Take 001|BaseLayer
+  - first:
+      74: -8300361476568559140
+    second: Object086|Object098|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184716
+  packageName: Sci-Fi Office Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/ScifiOffice/Meshes/Office Interior/Bookshelf.FBX
+  uploadId: 533414

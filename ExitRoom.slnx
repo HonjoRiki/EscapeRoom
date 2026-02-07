@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="com.unity.animations.springbone.csproj" />
+  <Project Path="com.unity.animations.springbone.editor.csproj" />
+</Solution>
