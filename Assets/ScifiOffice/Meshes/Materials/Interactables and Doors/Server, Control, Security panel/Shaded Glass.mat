@@ -45,6 +45,7 @@ Material:
   - TransparentDepthPostpass
   - TransparentBackface
   - DepthOnly
+  - SHADOWCASTER
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -343,7 +344,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 0.22641501, g: 0.22641501, b: 0.22641501, a: 0.9490196}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 0.22641504, g: 0.22641504, b: 0.22641504, a: 0.9490196}
+    - _Color: {r: 0.22641498, g: 0.22641498, b: 0.22641498, a: 0.9490196}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
