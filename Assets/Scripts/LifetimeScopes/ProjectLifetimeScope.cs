@@ -6,6 +6,7 @@ public class ProjectLifetimeScope : LifetimeScope
 {
     [SerializeField] private FadeView fadeView;
     [SerializeField] private TextView textView;
+    [SerializeField] private SoundView soundView;
 
     protected override void Configure(IContainerBuilder builder)
     {
@@ -13,12 +14,16 @@ public class ProjectLifetimeScope : LifetimeScope
 
         builder.RegisterComponent(fadeView);
         builder.RegisterComponent(textView);
+        builder.RegisterComponent(soundView);
 
         // FadeModel の登録
         builder.Register<FadeModel>(Lifetime.Singleton);
 
         // FadeController の登録
         builder.RegisterEntryPoint<FadeController>(Lifetime.Singleton).AsSelf();
+
+        // SoundController の登録
+        builder.RegisterEntryPoint<SoundController>(Lifetime.Singleton).AsSelf();
 
         // TextModel の登録
         builder.Register<TextModel>(Lifetime.Singleton);
@@ -32,6 +37,10 @@ public class ProjectLifetimeScope : LifetimeScope
         // SceneService の登録
         builder.Register<ISceneService, SceneService>(Lifetime.Singleton);
 
+        // SoundService の登録
+        builder.Register<ISoundService, SoundService>(Lifetime.Singleton);
+
+        // MouseInput の登録
         builder.Register<IMouseInput, MouseInput>(Lifetime.Singleton);
     }
 }
