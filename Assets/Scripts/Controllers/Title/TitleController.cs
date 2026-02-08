@@ -28,6 +28,6 @@ public sealed class TitleController : IStartable
     private async UniTask StartGame()
     {
         await fadeService.FadeOutAsync(1.0f);
-        await sceneService.LoadSceneAsync("Stage1");
+        await sceneService.LoadSceneAsync("Prologue");
     }
 }

@@ -29,12 +29,14 @@ public sealed class PrologueController : IStartable
 
     private async UniTask PlayPrologueSequence()
     {
-        // プロローグシーケンスの実装
-        await UniTask.Delay(2000); // 仮の遅延
+        await fadeService.FadeInAsync(1.0f);
+        await UniTask.Delay(1000);
 
-        textModel.SetText("ここは見知らぬ部屋……");
+        textModel.SetText("目を覚ますと、見知らぬ場所にいた。");
         await playerInput.OnInteract.FirstAsync().AsUniTask();
-        textModel.SetText("どうやら脱出しなければならないようだ。");
+        textModel.SetText("ここはどこだろう……？");
+        await playerInput.OnInteract.FirstAsync().AsUniTask();
+        textModel.SetText("とにかく、ここから出る方法を探さないと。");
         await playerInput.OnInteract.FirstAsync().AsUniTask();
         textModel.SetText("周りを見渡してみよう。");
         await playerInput.OnInteract.FirstAsync().AsUniTask();
